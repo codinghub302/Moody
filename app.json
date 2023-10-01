@@ -14,17 +14,17 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "22069537",
+        "value": "",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "cd11171a4e13d4efe0fbb6b69ac0eb6f",
+        "value": "",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "6503037525:AAGVJwLY2JZni3PEmlitL0qIP9HhplvDKQo",
+        "value": "",
         "required": true
       },
       "MONGO_DB_URI": {
@@ -39,7 +39,7 @@
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from @StringFatherBot on Telegram.",
-        "value": "BQFQwSEAgZ4fK7-qSX_oTJ3fJD8NXIsYSOz-lHvFk9IpbskjgDj9FnkvZRFQV97saeUYhXaWPv8hr7slpIGvO71I_31b7Bj9rK-O664DywPI-zMgYKITc7Rsv90TVkp0XrVfVjGKW2JT1FyZCHfqGQ3n1GWZOqHuZqe17UKGCjGjH0JeKZ0-8tli-swvNfBlnvJHkf5dMzanKS4UfBDo0Olh1fYnyW4X4nujNgTe-CL12J4S-a5ciUtaUO4BlpfgiU0Pup1cBfGUYb2M6AqFP5lSJK8fI0tBgPucu8XdAGUHgb4YpQES038cPv8-CqrwPr2cqwHJlmmrkq0czQUd6NC-XBlwRwAAAAE3d2F9AA",
+        "value": "",
         "required": true
       },
       "HEROKU_API_KEY": {
